@@ -1,0 +1,16 @@
+{
+  "name": "backendfolderstucture",
+  "version": "1.0.0",
+  "description": "A backend at folder stucture",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Rahul Poddar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
